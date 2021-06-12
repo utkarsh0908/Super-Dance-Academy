@@ -10,7 +10,7 @@
 /* NAVBAR */
 
 #logo{
-    background: center/cover no-repeat url("/static/logo.jpg");
+    background: center/cover no-repeat url("logo.jpg");
     height: 50px;
     width: 150px;
     margin-right: 280px;
@@ -63,7 +63,7 @@
 #introsection{
     
     font-family: 'Montserrat', sans-serif;
-    background: center/cover no-repeat url("/static/bg.jpg");
+    background: center/cover no-repeat url("bg.jpg");
     color: white;
     font-size: 40px;
     display: flex;
